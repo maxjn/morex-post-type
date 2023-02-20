@@ -5,7 +5,7 @@
  * Description: Adds portfolio post types
  * Version: 1.0.0
  * Requires at least: 5.2
- * Requires PHP: 8.1
+ * Requires PHP: 7.2
  * Author: Maxjn
  * Author URI: https://www.rtl-theme.com/author/maxjn/products/
  * License: GPL v2 or later
