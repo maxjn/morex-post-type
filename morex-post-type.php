@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Morex Post Type
  * Description: Adds portfolio post types
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires at least: 5.2
  * Requires PHP: 7.2
  * Author: Maxjn
